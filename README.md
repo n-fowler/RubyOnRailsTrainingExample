@@ -1,4 +1,4 @@
-# RubyOnRailsTrainingExample
+# Ruby On Rails Training Example
 
 In this exercise, you are to introduce a "Page Object", i.e. a Ruby class which represents the Shopping Cart Page. The goal is to abstract the step definitions away from how functionality is implemented in the browser. 
 
